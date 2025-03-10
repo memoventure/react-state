@@ -1,6 +1,6 @@
 import {Character} from "./types/RickAndMortyCharacter.ts";
 
-export const characters: Character[] = [
+export const allCharacters: Character[] = [
     {
         "id": 1,
         "name": "Rick Sanchez",
